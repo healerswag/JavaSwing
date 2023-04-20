@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaSwing6157:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaSwing6157_jar</output-path>
+    <root id="archive" name="JavaSwing6157.jar">
+      <element id="module-output" name="JavaSwing6157" />
+      <element id="module-output" name="Demo6157" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Demo6157/myjar/jsoup-1.11.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Demo6157/myjar/JsoupXpath-2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Demo6157/myjar/sqlite-jdbc-3.8.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
